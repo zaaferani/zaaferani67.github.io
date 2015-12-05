@@ -1,0 +1,37 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: وب سایت شخصی حسن زعفرانی
+author: حسن زعفرانی
+email: zaaferani.arta@gmail.com
+keywords: "کامپیوتر، برنامه‌نویسی، پایتون، علم،اندروید، جاوا، پایتون، پی اچ پی، سی شارپ"
+copyright: "حسن زعفرانی"
+description: > #   حسن زعفرانی هستم!
+    مهندسی کامپیوتر دارم و به بهترین کار دنیا، برنامه نویسی مشغولم!
+    اندروید، جاوا، پایتون، پی اچ پی، سی شارپ، می تونم کد بزنم! البته بقیه ی زبان ها هم فرقی نداره!
+    فعلا پلتفرم های وب و اندروید رو کار می کنم
+    بهترین ها رو برای شما آرزو می کنم
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://zaaferani.ir" # the base hostname & protocol for your site
+twitter_username: HassanZaaferani
+github_username:  zaaferani67
+
+favicon: "img/favicon.png"
+
+# Build settings
+markdown: kramdown
+kramdown:
+    coderay_line_numbers: nil
+encoding: utf-8
+timezone: Asia/Tehran
+
+gems:
+  - jekyll-sitemap
+  - jemoji
+#  - jalalidate
+#  - coderay
