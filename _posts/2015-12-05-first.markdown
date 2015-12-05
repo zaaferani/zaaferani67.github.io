@@ -27,7 +27,7 @@ gem 'jemoji'
 
 بعدش باید توی فایل `_config.yml` این خط رو اضافه کنید
 
-{% highlight yml %}
+{% highlight yaml %}
 gems:
   - jemoji
 {% endhighlight %}
@@ -45,7 +45,7 @@ gems:
 برای استفاده از شکلک های شخصی تون هم می تونید مسیرش رو به جکیل معرفی کنید.
 باید توی فایل `_config.yml` این کد ها رو بنویسید
 
-{% highlight yml %}
+{% highlight yaml %}
 emoji:
   src: "/assets/images/emoji"
 {% endhighlight %}
