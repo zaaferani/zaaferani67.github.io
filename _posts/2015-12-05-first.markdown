@@ -34,7 +34,7 @@ gems:
 
 حالا هر کجا که دوست داشته باشید می تونید از اموجی ها استفاده کنید.
 
-{% highlight markdown %}
+{% highlight %}
 مثلا: :+1:!
 {% endhighlight %}
 
