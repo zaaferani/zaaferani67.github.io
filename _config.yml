@@ -34,4 +34,4 @@ gems:
   - jekyll-sitemap
   - jemoji
 #  - jalalidate
-#  - coderay
+  - coderay
