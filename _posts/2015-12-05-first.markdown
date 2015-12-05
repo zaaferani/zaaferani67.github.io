@@ -21,22 +21,22 @@ categories: jekyll
 
 اول باید خط زیر رو به `Gemfile` پروژه تون اضافه کنید
 
-```ruby
+{% highlight ruby %}
 gem 'jemoji'
-```
+{% endhighlight %}
 
 بعدش باید توی فایل `_config.yml` این خط رو اضافه کنید
 
-```yml
+{% highlight yml %}
 gems:
   - jemoji
-```
+{% endhighlight %}
 
 حالا هر کجا که دوست داشته باشید می تونید از اموجی ها استفاده کنید.
 
-```markdown
+{% highlight markdown %}
 مثلا: :+1:!
-```
+{% endhighlight %}
 
 :+1:
 
@@ -45,10 +45,11 @@ gems:
 برای استفاده از شکلک های شخصی تون هم می تونید مسیرش رو به جکیل معرفی کنید.
 باید توی فایل `_config.yml` این کد ها رو بنویسید
 
-```yml
+{% highlight yml %}
 emoji:
   src: "/assets/images/emoji"
-```
+{% endhighlight %}
+
 :large_blue_circle: دیدید کاری نداشت :large_blue_circle:
 
 برای کسب اطلاعات بیشتر می تونین به آدرس [Emoji] مراجعه کنید
