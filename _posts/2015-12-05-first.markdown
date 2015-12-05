@@ -21,7 +21,7 @@ categories: jekyll
 
 اول باید خط زیر رو به `Gemfile` پروژه تون اضافه کنید
 
-```
+```ruby
 gem 'jemoji'
 ```
 

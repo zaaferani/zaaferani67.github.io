@@ -24,9 +24,10 @@ github_username:  zaaferani67
 favicon: "img/favicon.png"
 
 # Build settings
-markdown: kramdown
-kramdown:
-    coderay_line_numbers: nil
+#markdown: kramdown
+markdown: markdown
+#kramdown:
+#    coderay_line_numbers: nil
 encoding: utf-8
 timezone: Asia/Tehran
 
